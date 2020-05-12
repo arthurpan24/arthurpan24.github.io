@@ -47,8 +47,8 @@ include:
   - _projects
 
 # Build settings
-# theme: portfolyou-jekyll-theme
-# remote_theme: YoussefRaafatNasry/portfolYOU
+theme: portfolyou-jekyll-theme
+remote_theme: YoussefRaafatNasry/portfolYOU
 plugins:
   - jekyll-feed
 
