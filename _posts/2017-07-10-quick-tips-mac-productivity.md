@@ -4,6 +4,7 @@ tags: Productivity Medium
 style: fill
 color: light
 description: Shortcuts and more
+layout: post
 ---
 
 Medium: [my original post](https://medium.com/@arthur_pan/quick-tips-to-speed-up-mac-productivity-10152a22283)

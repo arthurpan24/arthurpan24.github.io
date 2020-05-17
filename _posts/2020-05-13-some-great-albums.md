@@ -4,6 +4,7 @@ tags: Music
 style: fill
 color: light
 description: A list of albums I have recently listened through
+layout: post
 ---
 *A random list of music I recommend to listen all the way through. They are listed in no particular order.*
 

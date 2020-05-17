@@ -4,6 +4,7 @@ tags: Photography Medium
 style: fill
 color: light
 description: What it is and how it works
+layout: post
 ---
 
 Medium: [my original post](https://medium.com/@arthur_pan/the-compression-effect-in-photography-be426abeb02)

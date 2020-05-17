@@ -4,6 +4,7 @@ tags: Outdoors Travel Medium
 style: fill
 color: light
 description: A recollection of a recent dive I made in Turks and Caicos.
+layout: post
 ---
 
 Medium: [my original post](https://medium.com/@arthur_pan/why-everyone-should-scuba-dive-9516a62a58cd)

@@ -4,6 +4,7 @@ tags: Business Medium
 style: fill
 color: light
 description: The Wanderlease experience
+layout: post
 ---
 
 Medium: [my original post](https://medium.com/@arthur_pan/6-things-i-learned-from-being-a-part-of-a-startup-93c74ee05a77)
