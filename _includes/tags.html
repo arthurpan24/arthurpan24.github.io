@@ -1,15 +1,15 @@
 <!-- Collect tags from all posts -->
-<!-- {%- assign tags = blank -%}
+{%- assign tags = blank -%}
 {%- for post in site.posts -%}
   {%- assign post_tags = post.tags | join:'|' | append:'|' -%}
   {%- if post_tags != '|' -%}
     {%- assign tags = tags | append:post_tags -%}
   {%- endif -%}
 {%- endfor -%}
-{%- assign tags = tags | split:'|' | uniq | sort -%} -->
+{%- assign tags = tags | split:'|' | uniq | sort -%}
 
 <!-- List tags & related posts -->
-<!-- {% for tag in tags %}
+{% for tag in tags %}
 <div class="py-3">
   <h4 id="{{ tag | slugify }}">{{ tag }}</h4>
   <ol>
@@ -28,4 +28,4 @@
   </ol>
 </div>
 <hr class="bg-light">
-{% endfor %} -->
+{% endfor %}
