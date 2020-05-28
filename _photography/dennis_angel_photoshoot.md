@@ -6,7 +6,7 @@ description: A 7-year anniversary celebration.
 layout: page
 ---
 # Dennis and Angel
-*A 7-year impromptu anniversary photoshoot Shot by me and [Jerry Pan](https://www.linkedin.com/in/jerry-pan-18201aa0/)*
+*A 7-year impromptu anniversary photoshoot shot by me and [Jerry Pan](https://www.linkedin.com/in/jerry-pan-18201aa0/)*
 
 **Gear Used:**
 * Canon 5D mk ii w/24-70mm f/2.8L
