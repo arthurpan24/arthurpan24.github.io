@@ -21,3 +21,4 @@ layout: page
 ![alt text](/images/dennis-angel/shot_3.jpg "shot 3")
 ![alt text](/images/dennis-angel/shot_4.jpg "shot 4")
 ![alt text](/images/dennis-angel/shot_5.jpg "shot 5")
+![alt text](/images/dennis-angel/shot_6.jpg "shot 6")
